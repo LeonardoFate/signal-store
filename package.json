@@ -18,10 +18,7 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
-<<<<<<< HEAD
     "ngxtension": "^4.0.0",
-=======
->>>>>>> 968438f312249f1d3094d846c841237440146c66
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"
@@ -37,10 +34,7 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-<<<<<<< HEAD
     "tailwindcss": "^3.4.13",
-=======
->>>>>>> 968438f312249f1d3094d846c841237440146c66
     "typescript": "~5.5.2"
   }
 }
